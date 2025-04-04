@@ -24,7 +24,7 @@ langchain-openai==0.1.6
 open-interpreter==0.2.6
 langchain==0.1.20
 langchain-community==0.0.38
-langchain-core==0.1.52
+langchain-core==0.1.53
 
 # custom tools
 pyperclip==1.8.2
